@@ -1,0 +1,62 @@
+.logo{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgba(204, 54, 54, 0.61);
+    text-decoration: none;
+    text-shadow: 10px;
+}
+.text{
+    color: white;
+}
+.header{
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    width: 800px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 700px;
+    background-color: white;
+    position: relative;
+    left: -500px;
+    font-size: larger;
+    top: 50px;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:blue;
+    font-weight: bolder;
+}
+.body{
+   padding-left: 110px;
+    
+}
+
+.big{
+    
+    margin-top: 30px;
+}
+.big1{
+    
+    margin-top: 10px;
+}
+.title{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.header1{
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    width:1000px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    height: 700px;
+    background-color: white;
+    position: relative;
+    left: -500px;
+    font-size: larger;
+    top: 50px;
+}
+.nav{
+    font-size: larger;
+}
+
+
