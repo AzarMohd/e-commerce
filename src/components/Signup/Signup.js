@@ -4,7 +4,7 @@ import React from 'react';
 const Signup = () => {
   return (
     <div className='header container mb-1 text-'>
-    <img src="./assets/signup.jpg" alt="sign" width="300px" height="100px" class="img-fluid"></img>
+    <img src="https://img.freepik.com/free-vector/blue-sign-up-button-modern-style-business-vector-icon-arrow-icon_100456-6415.jpg?size=626&ext=jpg" alt="sign" width="300px" height="100px" class="img-fluid"></img>
     <form className='body container '>
                 
                 <h3 >Sign Up</h3>

@@ -5,7 +5,7 @@ import "./style.css";
 const Login = () => {
   return (
       <div className=' header container mb-1'>
-          <img src="./assets/login.jpg" alt="login" width="300px" height="150px" className="img-fluid"></img>
+          <img src="https://thumbs.dreamstime.com/b/login-illustration-letter-cubes-forming-word-36025252.jpg" alt="login" width="300px" height="150px" className="img-fluid"></img>
 <form className='body'>
     <h3 >Sign In</h3>
     <div className="col-md-7 big">

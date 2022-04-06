@@ -8,7 +8,7 @@ import { useSelector } from 'react-redux';
         <div>
             <nav className="navbar navbar-expand-lg navbar-light bg-dark py-3 shadow-sm">
                 <div className="container">
-                    <img src='./assets/fashion.png' height="100px" width="250px" />
+                    <img src='https://images.pngnice.com/download/2007/Pegasus-Transparent-Background.png' height="100px" width="150px" />
                     <NavLink className="logo fw-bold fs-1" to="/">LA COLLECTION</NavLink>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>

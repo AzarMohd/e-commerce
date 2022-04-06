@@ -15,7 +15,7 @@ const About = () => {
                         <NavLink to="/contact" className="btn btn-outline-primary px-3">Contact Us</NavLink>
                     </div>
                     <div className="col-md-6 d-flex justify-content-center">
-                        <img src="/assets/about.png" alt="About Us" height="400px" width="400px" />
+                        <img src="https://cdn.imgbin.com/8/8/13/imgbin-sports-association-management-computer-icons-meeting-business-politics-UG2VQUUgB1M48FV3jL6BPSUAZ.jpg" alt="About Us" height="500px" width="400px" />
                     </div>
                 </div>
             </div>

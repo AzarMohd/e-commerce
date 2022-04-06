@@ -12,7 +12,7 @@ const Contact = () => {
                 </div>
                 <div className="row">
                     <div className="col-md 5 d-flex justify-content-center">
-                        <img src="/assets/contact.png" alt="Contact Us" height="300px" width="300px" />
+                        <img src="https://swall.teahub.io/photos/small/240-2400738_red-and-black-mail-box-on-white-surface.jpg" alt="Contact Us" height="300px" width="300px" />
                     </div>
                     <div className="col-md-6">
                         <form >
