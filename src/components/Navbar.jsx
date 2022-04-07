@@ -6,26 +6,28 @@ import { useSelector } from 'react-redux';
      const state =useSelector((state)=>state.handleCart);
     return (
         <div>
-            <nav className="navbar navbar-expand-lg navbar-light bg-dark py-3 shadow-sm">
+            <nav className="navbar navbar-expand-lg navbar-dark bg-dark py-3 shadow-sm">
                 <div className="container">
                     <img src='https://images.pngnice.com/download/2007/Pegasus-Transparent-Background.png' height="100px" width="150px" />
                     <NavLink className="logo fw-bold fs-1" to="/">LA COLLECTION</NavLink>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                    data-bs-target="#navbarNav" aria-controls="navbarNav" 
+                    aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
-                    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav mx-auto mb-2 mb-lg-0">
-                            <li className="nav nav-item fw-bolder">
-                                <NavLink className="text-white nav-link active" aria-current="page" to="/">Home</NavLink>
+                            <li className="nav-item active fw-bolder">
+                                <NavLink className=" nav-link active text-white " aria-current="page" to="/">Home</NavLink>
                             </li>
-                            <li className="nav-item fw-bolder">
-                                <NavLink className="text-white nav-link" to="/products">Products</NavLink>
+                            <li className="nav-item active fw-bolder">
+                                <NavLink className=" nav-link text-white" to="/products">Products</NavLink>
                             </li>
-                            <li className="nav-item fw-bolder">
-                                <NavLink className=" text-white nav-link" to="/about">About</NavLink>
+                            <li className="nav-item active fw-bolder">
+                                <NavLink className="  nav-link text-white" to="/about">About</NavLink>
                             </li>
-                            <li className="nav-item fw-bolder">
-                                <NavLink className="text-white nav-link" to="/contact">Contact</NavLink>
+                            <li className="nav-item active fw-bolder">
+                                <NavLink className=" nav-link text-white" to="/contact">Contact</NavLink>
                             </li>
                         </ul>
                         <div className='buttons'>

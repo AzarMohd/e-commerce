@@ -16,7 +16,7 @@
     height: 700px;
     background-color: white;
     position: relative;
-    left: -500px;
+    left: -300px;
     font-size: larger;
     top: 50px;
 }
@@ -51,12 +51,9 @@ h3 {
     height: 700px;
     background-color: white;
     position: relative;
-    left: -500px;
+    left: -400px;
     font-size: larger;
     top: 50px;
-}
-.nav{
-    font-size: larger;
 }
 
 
